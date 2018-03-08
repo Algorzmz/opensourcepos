@@ -28,9 +28,10 @@ class MY_Lang extends CI_Lang
      */
 	public function line($line = '', $log_errors = TRUE)
     {
+        echo "\n*checking line ".$line."*\n";
         //get the arguments passed to the function
         $args = func_get_args();
-        
+
         //count the number of arguments
         $c = count($args);
         
@@ -40,7 +41,6 @@ class MY_Lang extends CI_Lang
             //first argument should be the actual language line key
             //so remove it from the array (pop from front)
             $line = array_shift($args);
-            echo "\n*checking line ".line."*\n";
             //check to make sure the key is valid and load the line
             if($line == '')
             {
