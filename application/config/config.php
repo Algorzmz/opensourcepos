@@ -4,7 +4,7 @@
 | Code Version 
 |-------------------------------------------------------------------------- 
 | 
-| This is the version of Open Source Point of Sale you're running 
+| This is the version of Abou 3amr System you're running
 | 
 | 
 */ 
