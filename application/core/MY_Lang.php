@@ -28,7 +28,7 @@ class MY_Lang extends CI_Lang
      */
 	public function line($line = '', $log_errors = TRUE)
     {
-        echo "checking line ".line;
+        echo "\n*checking line ".line."*\n";
         //get the arguments passed to the function
         $args = func_get_args();
         
