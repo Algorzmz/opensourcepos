@@ -20,3 +20,5 @@ $lang["datepicker_today"] = "اليوم";
 $lang["datepicker_today_last_year"] = "نفس اليوم من السنة الماضية";
 $lang["datepicker_weekstart"] = "0";
 $lang["datepicker_yesterday"] = "أمس";
+$lang["datepicker_this_financial_year"] = "السنة المالية الحالية";
+$lang["datepicker_last_financial_year"] = "السنة المالية السابقة";
