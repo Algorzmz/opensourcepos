@@ -1,19 +1,19 @@
 <?php 
 
-$lang["suppliers_account_number"] = "Account Number";
-$lang["suppliers_agency_name"] = "Agency Name";
-$lang["suppliers_cannot_be_deleted"] = "Could not delete selected Supplier(s). One or more have Sales.";
-$lang["suppliers_company_name"] = "Company Name";
-$lang["suppliers_company_name_required"] = "Company Name is a required field.";
-$lang["suppliers_confirm_delete"] = "Are you sure you want to delete the selected Supplier(s)?";
-$lang["suppliers_confirm_restore"] = "Are you sure you want to restore selected Supplier(s)?";
-$lang["suppliers_error_adding_updating"] = "Supplier update or add failed.";
-$lang["suppliers_new"] = "New Supplier";
-$lang["suppliers_none_selected"] = "You have not selected Supplier(s) to delete.";
-$lang["suppliers_one_or_multiple"] = "Supplier(s)";
-$lang["suppliers_successful_adding"] = "You have successfully added Supplier";
-$lang["suppliers_successful_deleted"] = "You have successfully deleted";
-$lang["suppliers_successful_updating"] = "You have successfully updated Supplier";
-$lang["suppliers_supplier"] = "Supplier";
-$lang["suppliers_supplier_id"] = "Id";
-$lang["suppliers_update"] = "Update Supplier";
+$lang["suppliers_account_number"] = "رقم الحساب";
+$lang["suppliers_agency_name"] = "اسم الوكالة";
+$lang["suppliers_cannot_be_deleted"] = "لايمكن حذف المورد/الموردين لوجود مبيعات مرتبطة بهم.";
+$lang["suppliers_company_name"] = "اسم الشركة";
+$lang["suppliers_company_name_required"] = "اسم الشركة مطلوب.";
+$lang["suppliers_confirm_delete"] = "هل تريد حقا حذف هؤلاء الموردين؟";
+$lang["suppliers_confirm_restore"] = "هل تريد بالتأكيد استعادة المورد (الموردين) المحددين؟";
+$lang["suppliers_error_adding_updating"] = "خطاء فى إضافة/تحديث المورد.";
+$lang["suppliers_new"] = "مورد جديد";
+$lang["suppliers_none_selected"] = "لم تختار موردين لحذفهم.";
+$lang["suppliers_one_or_multiple"] = "مورد/موردين";
+$lang["suppliers_successful_adding"] = "لقد تم إضافة المورد بنجاح";
+$lang["suppliers_successful_deleted"] = "لقد تم حذف المورد بنجاح";
+$lang["suppliers_successful_updating"] = "لقد تم تحديث بيانات المورد بنجاح";
+$lang["suppliers_supplier"] = "مورد";
+$lang["suppliers_supplier_id"] = "كود المورد";
+$lang["suppliers_update"] = "تحديث بيانات المورد";
