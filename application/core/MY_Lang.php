@@ -68,6 +68,7 @@ class MY_Lang extends CI_Lang
             		// just return label name (with TBD)
             		$line = $this->line_tbd($line);
             		log_message('error', 'Could not find the language line "'.$line.'"');
+            		echo 'Could not find the language line "'.$line.'"';
             	}
             }
         }

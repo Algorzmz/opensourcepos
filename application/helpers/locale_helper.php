@@ -36,28 +36,7 @@ function get_languages()
 {
 	return array(
 		'ar-EG:arabic' => 'Arabic (Egypt)',
-		'az-AZ:azerbaijani' => 'Azerbaijani (Azerbaijan)',
-		'bg:bulgarian' => 'Bulgarian',
-		'de:german' => 'German (Germany)',
-		'de-CH:german' => 'German (Swiss)',
-		'en-GB:english' => 'English (Great Britain)',
-		'en-US:english' => 'English (United States)',
-		'es:spanish' => 'Spanish',
-		'fr:french' => 'French',
-		'hr-HR:croatian' => 'Croatian (Croatia)',
-		'hu-HU:hungarian' => 'Hungarian (Hungary)',
-		'id:indonesian' => 'Indonesian',
-		'it:italian' => 'Italian',
-		'km:khmer' => 'Central Khmer (Cambodia)',
-		'lo:lao' => 'Lao (Laos)',
-		'nl-BE:dutch' => 'Dutch (Belgium)',
-		'pt-BR:portuguese-brazilian' => 'Portuguese (Brazil)',
-		'ru:russian' => 'Russian',
-		'sv:swedish' => 'Swedish',
-		'th:thai' => 'Thai',
-		'tr:turkish' => 'Turkish',
-		'vi:vietnamese' => 'Vietnamese',
-		'zh:simplified-chinese' => 'Chinese'
+		'en-US:english' => 'English (United States)'
 	);
 }
 
