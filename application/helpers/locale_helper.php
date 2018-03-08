@@ -35,7 +35,6 @@ function current_language($load_system_language = FALSE)
 function get_languages()
 {
 	return array(
-		'ar-EG:arabic' => 'Arabic (Egypt)',
 		'en-US:english' => 'English (United States)'
 	);
 }
